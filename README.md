@@ -14,7 +14,7 @@ Create a simple calendar application that allows a user to save events for each 
 ## URLs
 
 live URL: 
-GitHub Repo URL:
+GitHub Repo URL:https://github.com/RockyluvsEmily/DAY_JS/tree/main
 
 ## Author
 Dewayne Cavendish
